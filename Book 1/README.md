@@ -13,7 +13,7 @@
 
 ## Advancement Track
 
-There generally aren't enough encounters in this chapter for characters to level up so play fast and loose with rewarding players for story beats. This conversion makes an attempt at providing some extra XP to boost players into the correct levels at the right spots, but if you find you're lacking don't be shy to send some enemies at the players while they're in town using the [Torch Encounters](#torch-encounters) table.
+There generally aren't enough encounters in this chapter for characters to level up so play fast and loose with rewarding players for story beats. This conversion makes an attempt at providing some extra XP to boost players into the correct levels at the right spots, but if you find you're lacking don't be shy to send some enemies at the players while they're at sea using the [Low-Level Ocean Encounters](#low-level-ocean-encounters) table.
 
 Level | XP Progression          | Milestone
 ------|-------------------------|----------
