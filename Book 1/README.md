@@ -134,7 +134,7 @@ Level | XP Progression          | Milestone
 - **Perception** to locate each of the lost items in the galley
 
 **Treasure:**
-- 1x +1 Dagger
+- 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
 - 2x Hatchets
 - 11x Daggers
 - 1x Shortsword
