@@ -118,6 +118,201 @@ Level | XP Progression          | Milestone
 
 ## A5b. Captain's Storage
 
+**Skills:**
+- **Thievery** DC 40 to unlock the superior lock on the storage door.
+- **Thievery** DC 40 to unlock the superior locks on each of the iron chests.
+
+**Hazards:**
+- [Dart Launcher](https://2e.aonprd.com/Hazards.aspx?ID=399) in each of the iron chests
+
+**Treasure:**
+- Coins, jewels, and other treasures worth almost 5,000 gp in total
+
+## A8. Galley
+
+**Skills:**
+- **Perception** to locate each of the lost items in the galley
+
+**Treasure:**
+- 1x +1 Dagger
+- 2x Hatchets
+- 11x Daggers
+- 1x Shortsword
+- 1x Vial of Holy Water
+- 1x Good Lock hanging unused off a pantry cupboard
+- 20x Soap
+- 4x Waterskins
+- 6x bottles of Chelish brandy worth 2 gp each
+- 3x bottles of magnificent rum worth 1 gp each
+- 1x large cookbook worth 13 gp
+- 1x prosthetic leg worth 5 gp
+- 12 sp
+- 3x Harpoons
+- 1x Spear
+- 1x Grappling Gun
+
+## A9. Quartermaster's Store
+
+**Skills:**
+- **Thievery** DC 40 to unlock the superior lock on the door to the storeroom
+
+**Treasure:**
+- 1. Wooden Locker
+  - **Thievery** DC 20 to unlock the simple lock on the locker
+  - Random adventuring gear worth 1 gp
+- 2. Wooden Locker
+  - **Thievery** DC 20 to unlock the simple lock on the locker
+  - PC's Equipment
+  - Rosie Cusswell's Virtuoso Fiddle
+  - 1x Starknife
+  - 3x Lesser Flasks of Acid
+  - 6x Lesser Alchemist's Fires
+  - 3x Thieves' Toolkits
+  - 1x Infiltrator Thieves' Toolkit
+  - Iron Box
+    - 5x Candles
+    - 1x Candle of Truth
+- 3. Wooden Chest
+  - **Hazard** [Hidden Crossbow Trap](https://2e.aonprd.com/Hazards.aspx?ID=566)
+  - 1x Oak Potion
+  - 1x Lesser Healing Potion
+  - 1x Potion of Quickness
+  - 1x Extreme Climbing Kit
+  - 1x Disguise Kit
+  - 4x Flasks of Holy Water
+  - 1x Magnifying Glass
+  - 1x Average Manacles
+  - 2x Lesser Glue Bombs
+- 4. Wooden Chest
+  - **Thievery** DC 20 to unlock the average lock on the chest
+  - **Hazard** [Hidden Crossbow Trap](https://2e.aonprd.com/Hazards.aspx?ID=566)
+  - 1x +1 Crossbow
+  - 3x Machetes
+  - 31x Daggers
+  - 3x +1 Daggers
+  - 43x Darts
+  - 4x Saps
+  - 1x +1 Sap
+  - 140x Arrows
+  - 6x Beacon Shot
+  - 200x Bolts
+- 5. Wooden Trunk
+  - **Thievery** DC 30 to unlock the good lock on the trunk
+  - 1x Splint Mail
+  - 1x Breastplate
+  - 2x Chain Shirts
+  - 1x +1 Leather Armor
+  - 3x Studded Leather Armor
+  - 12x Bucklers
+  - 2x Minor Reinforcing Bucklers
+  - Cash Box
+    - 23 cp
+    - 10 sp
+    - 10 gp
+- 6. Metal Trunk
+  - **Thievery** DC 30 to unlock the good lock on the trunk
+  - **Hazards** [Dart Launcher](https://2e.aonprd.com/Hazards.aspx?ID=399)
+  - 1x +1 Animal Bane Dagger
+  - 1x +1 Striking Shortsword
+  - 1x +1 Warhammer
+  - 1x Scroll of Heal (2nd Rank)
+  - 1x Scroll of Mystic Armor (1st Rank)
+  - 1x Scroll of Force Barrage (1st Rank)
+  - 1x Scroll of Blazing Bolt (2nd Rank)
+  - 1x Scroll of Summon Animal (2nd Rank)
+  - Wand of Mental Purification (1st Rank Spell)
+
+## A10. Lower Hold and Crew Berths
+
+**Skills:**
+- **Athletics** DC 14 to lift the doors to the bilges
+
+**Treasure:**
+- 18 Lockers (each fitted with a poor lock [DC 15 Thievery to unlock])
+  - Locker #1
+    - 9 gp
+    - 2x hematites worth 1 gp each
+    - 1x Bullseye Lantern
+    - 1x Fancy Peacock Feather
+  - Locker #2
+    - 12 gp
+    - 1x Bottle of Brandy
+  - Locker #3
+    - 5 gp
+    - 1x Lesser Antidote
+    - 1x Silver ring worth 5 sp
+  - Locker #4
+    - 11 gp
+    - 1x Bedroll
+  - Locker #5
+    - 11 gp
+    - 1x Gold earring worth 2 gp
+    - 1x Sterling Carpenter's Toolkit
+  - Locker #6
+    - 15 gp
+    - 1x Silver ring worth 5 sp
+    - 1x Bottle of wine
+  - Locker #7
+    - 5 gp
+    - 1x Sterling Blacksmith's Toolkit
+    - 2x Agate worth 1 gp
+  - Locker #8
+    - 18 gp
+    - 1x Battered tankard
+  - Locker #9
+    - 3 gp
+    - 1x Thieves' Toolkit
+    - 1x Bottle of wine
+  - Locker #10
+    - 7 gp
+    - 1x Bicorne hat
+    - 1x Gold earring worth 2 gp
+  - Locker #11
+    - 15 gp
+    - 1x agate worth 1 gp
+    - 1x Fancy peacock feather
+  - Locker #12
+    - 17 gp
+    - 1x Lucky rabbit's foot
+    - 1x Lesser alchemist's fire
+    - 1x Gold earring worth 2 gp
+  - Locker #13
+    - 4 gp
+    - 1x Bullseye lantern
+    - 1x Flask of giant centipede venom
+  - Locker #14
+    - 14 gp
+    - 1x Lesser Glue Bomb
+    - 2x hematites worth 1 gp each
+  - Locker #15
+    - 6 gp
+    - 1x Gold earring worth 2 gp
+  - Locker #16
+    - 28 gp
+  - Locker #17
+    - 20 gp
+    - 1x Lesser Alchemist's Fire
+  - Locker #18
+    - 12 gp
+    - 1x Bullseye Lantern
+    - 1x Lesser Acid Flash
+    - 1x Lesser Alchemist's Fire
+
+## A11. Bilges
+
+**Treasure:**
+- 6x Good Manacles
+- 1x Leather Armor
+- 3x Maces
+- 12 sp
+- **Hidden** DC 16 Perception to locate each
+  - 1x Buckler
+  - 1x +1 Hatchet
+  - 1x Vial of Holy Water
+  - 1x Lesser Glue Bomb
+  - 2x Matchsticks
+  - 2 gp
+
 ## Part 2: The Man's Promise
 
 ## Part 3: Bonewrack Isle
