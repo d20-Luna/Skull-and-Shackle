@@ -319,6 +319,28 @@ Level | XP Progression          | Milestone
   - 2x [Matchsticks](https://2e.aonprd.com/Equipment.aspx?ID=3356)
   - 2 gp
  
+## The Wormwood's Crew
+**Creatures**
+- [Sandara Quinn](Creatures/README.md#sandara-quinn)
+- [Rosie Cusswell](Creatures/README.md#rosie-cusswell)
+- [Crimson "Cog" Cogward](Creatures/README.md#cog)
+- [Conchobhar Turlach Shortstone](Creatures/README.md#conchobhar-shortstone)
+
+## The Wormwood's Officers
+**Creatures**
+- [Mr. Plugg](Creatures/README.md#mr-plugg)
+- [Master Scourge](Creatures/README.md#master-scourge)
+- [Ambrose "Fishguts" Kroop](Creatures/README.md#fishguts)
+- [Cut-Throat Grok](Creatures/README.md#cut-throat-grok)
+- [Captain Barnabas Harrigan](Creatures/README.md#captain-harrigan)
+- [Peppery Longfarthing](Creatures/README.md#peppery-longfarthing)
+- [Riaris Krine](Creatures/README.md#riaris-krine)
+- [Habbly Quarne, the “Stitchman”](Creatures/README.md#the-stitchman)
+- [Kipper](Creatures/README.md#kipper)
+- [Patch Patchsalt](Creatures/README.md#patch-patchsalt)
+- [“Caulky” Tarroon](Creatures/README.md#caulky)
+- [Owlbear Hartshorn](Creatures/README.md#owlbear-hartshorn)
+
 ## A Pirate's Day
 
 **Rigger Tasks**
@@ -505,7 +527,123 @@ Level | XP Progression          | Milestone
 - For each wormwood pirate accidentally killed
   - deduct 15 gp from party plunder
 
+## B2. Foredeck
+**Skills**
+- **Perception** DC 14 to notice the second nameplate
+
+## B4. Sterncastle
+**Treasure**
+- 2x [Ballista](https://2e.aonprd.com/SiegeWeapons.aspx?ID=2) with 12 bolts
+
+## B5. Ship's Boats
+**Skills**
+- **Sailing Lore or Athletics** DC 14 to launch the boats
+
+## B7. Captain's Cabin
+**Skills**
+- **Thievery** DC 30 to unlock the good locks on the two doors and trap door
+- **Thievery** DC 22 to unlock Owlbear's simple manacles
+
+**Treasure**
+- [Bedroll of Deep Slumber](https://2e.aonprd.com/Equipment.aspx?ID=3924)
+
+## B7a. Captain's Storage
+**Skills**
+- **Thievery** DC 30 to unlock the good lock on the one chest
+
+**Hazards**
+- [Electric Latch Rune](https://2e.aonprd.com/Hazards.aspx?ID=468) on the one chest
+
+**Treasure**
+- Mr. Plugg's share of the booty (worth 2 points of plunder)
+
+## B10. Galley
+**Skills**
+- **Thievery** DC 30 to unlock the trapdoor leading to the secure storage
+
+## B13. Secure Storage
+**Skills**
+- **Thievery** DC 30 to unlock the trapdoor
+
+## Day 1: New Ship, Old Rules
+**Skills**
+- **Fortitude** DC 13 to avoid being fatigued even on non-strenuous tasks
+
+## Day 4: A Storm and a Slithering Host by Night
+**Skills**
+- **Athletics** DC 19 to swim in the stormy waters
+
+**Creatures**
+- 6x [Grindylows](https://2e.aonprd.com/Monsters.aspx?ID=3038)
+
+## Day 5: Shipwrecked
+**Skills**
+- **Crafting or Engineering Lore or Sailing Lore** DC 16 to surmise the lack of immediate danger
+- **Perception** DC 16 to find signs of the grindylows
+- **Survival** DC 19 to find signs of the grindylows
+
 ## Part 3: Bonewrack Isle
+
+## Bonewrack Isle Features
+**Skills**
+- **Athletics** DC 16 to swim in the waters around Bonewrack Isle
+- **Survival** DC 17 to avoid becoming lost in the dense jungle
+- **Athletics** DC 19 to climb the cliffs
+- **Athletics** DC 16 to climb the cliffs where there is significant vegetation
+- **Athletics** DC 12 to climb the simple steps along the cliff
+- **Medicine** DC 14 find the signs of trauma and gnawing on the "shepherds"
+
+## The Swamp
+**Creatures**
+- [Fen Mosquito Swarm](https://2e.aonprd.com/Monsters.aspx?ID=4481) replacing Pyrexic Malaria with Forbidden Cravings from [Ghouls](https://2e.aonprd.com/MonsterFamilies.aspx?ID=419)
+- 1x-3x [Ghoul Stalkers](https://2e.aonprd.com/Monsters.aspx?ID=3009)
+
+## C2. The Fist
+**Skills**
+- **Perception** DC 16 to see the castaway's stockade
+- **Perception** DC 16 to find the treasures
+
+**Treasure**
+- 6x [Torches](https://2e.aonprd.com/Equipment.aspx?ID=2760)
+- 2x [Matchsticks](https://2e.aonprd.com/Equipment.aspx?ID=3356)
+
+## C4. The Mire
+
+## C5. Whores' Boudoir
+
+## C6. Crab Palm Beach
+
+## C7. The Fields
+
+## C8a. Castaway's Stockade
+
+## C8b. Stockade Lodge
+
+## C9. Wreck of the Infernus
+
+## D. Riptide Cove
+
+## Riptide Cove Features
+
+## D1. Riptide Cove
+
+## D2. The Neck
+
+## D3. The Fronds
+
+## D4. The Mesh
+
+## D5. The Cataract
+
+## D6. The Drowning Cave
+
+## D7. The Gullet
+
+## D8. The Cauldron
+
+## Mutiny!
+
+## Concluding the Adventure
 
 ## Low-Level Ocean Encounters
 
