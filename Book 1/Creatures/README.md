@@ -13,7 +13,12 @@ Use the PF2 Tools JSON files with [https://monster.pf2.tools/]. Be aware these d
 * [PF2 Tools JSON](JSONs/MasterScourge.json)
 * [PDF](PDFs/MasterSourge.pdf)
 
+### Owlbear Hartshorn
 
+![Owlbear Hartshorn](PNGs/OwlbearHartshorn.png)
+
+* [PF2 Tools JSON](JSONs/OwlbearHartshorn.json)
+* [PDF](PDFs/OwlbearHartshorn.pdf)
 
 ## New Creatures
 
