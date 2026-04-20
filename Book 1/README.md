@@ -135,21 +135,21 @@ Level | XP Progression          | Milestone
 
 **Treasure:**
 - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
-- 2x Hatchets
-- 11x Daggers
-- 1x Shortsword
-- 1x Vial of Holy Water
-- 1x Good Lock hanging unused off a pantry cupboard
-- 20x Soap
-- 4x Waterskins
-- 6x bottles of Chelish brandy worth 2 gp each
-- 3x bottles of magnificent rum worth 1 gp each
-- 1x large cookbook worth 13 gp
-- 1x prosthetic leg worth 5 gp
+- 2x [Hatchets](https://2e.aonprd.com/Weapons.aspx?ID=382)
+- 11x [Daggers](https://2e.aonprd.com/Weapons.aspx?ID=358)
+- 1x [Shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
+- 1x Vial of [Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001)
+- 1x [Good Lock](https://2e.aonprd.com/Equipment.aspx?ID=2731) hanging unused off a pantry cupboard
+- 20x [Soap](https://2e.aonprd.com/Equipment.aspx?ID=2752)
+- 4x [Waterskins](https://2e.aonprd.com/Equipment.aspx?ID=2761)
+- 6x bottles of [Chelish brandy](https://2e.aonprd.com/Equipment.aspx?ID=622) worth 2 gp each
+- 3x bottles of [magnificent rum](https://2e.aonprd.com/Equipment.aspx?ID=622) worth 1 gp each
+- 1x large [cookbook](https://2e.aonprd.com/Equipment.aspx?ID=2705) worth 13 gp
+- 1x [prosthetic leg](https://2e.aonprd.com/Equipment.aspx?ID=2776) worth 5 gp
 - 12 sp
-- 3x Harpoons
-- 1x Spear
-- 1x Grappling Gun
+- 3x [Harpoons](https://2e.aonprd.com/Weapons.aspx?ID=336)
+- 1x [Spear](https://2e.aonprd.com/Weapons.aspx?ID=365)
+- 1x [Grappling Gun](https://2e.aonprd.com/Equipment.aspx?ID=1099)
 
 ## A9. Quartermaster's Store
 
@@ -163,48 +163,48 @@ Level | XP Progression          | Milestone
 - 2. Wooden Locker
   - **Thievery** DC 20 to unlock the simple lock on the locker
   - PC's Equipment
-  - Rosie Cusswell's Virtuoso Fiddle
-  - 1x Starknife
-  - 3x Lesser Flasks of Acid
-  - 6x Lesser Alchemist's Fires
-  - 3x Thieves' Toolkits
-  - 1x Infiltrator Thieves' Toolkit
+  - Rosie Cusswell's [Virtuoso Fiddle](https://2e.aonprd.com/Equipment.aspx?ID=2737)
+  - 1x [Starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
+  - 3x [Lesser Flasks of Acid](https://2e.aonprd.com/Equipment.aspx?ID=3286)
+  - 6x [Lesser Alchemist's Fires](https://2e.aonprd.com/Equipment.aspx?ID=3287)
+  - 3x [Thieves' Toolkits](https://2e.aonprd.com/Equipment.aspx?ID=2758)
+  - 1x [Infiltrator Thieves' Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2758)
   - Iron Box
-    - 5x Candles
-    - 1x Candle of Truth
+    - 5x [Candles](https://2e.aonprd.com/Equipment.aspx?ID=2709)
+    - 1x [Candle of Truth](https://2e.aonprd.com/Equipment.aspx?ID=2999)
 - 3. Wooden Chest
   - **Hazard** [Hidden Crossbow Trap](https://2e.aonprd.com/Hazards.aspx?ID=566)
-  - 1x Oak Potion
-  - 1x Lesser Healing Potion
-  - 1x Potion of Quickness
-  - 1x Extreme Climbing Kit
-  - 1x Disguise Kit
-  - 4x Flasks of Holy Water
-  - 1x Magnifying Glass
-  - 1x Average Manacles
-  - 2x Lesser Glue Bombs
+  - 1x [Oak Potion](https://2e.aonprd.com/Equipment.aspx?ID=2945)
+  - 1x [Lesser Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - 1x [Potion of Quickness](https://2e.aonprd.com/Equipment.aspx?ID=2950)
+  - 1x [Extreme Climbing Kit](https://2e.aonprd.com/Equipment.aspx?ID=2713)
+  - 1x [Disguise Kit](https://2e.aonprd.com/Equipment.aspx?ID=2720)
+  - 4x Flasks of [Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001)
+  - 1x [Magnifying Glass](https://2e.aonprd.com/Equipment.aspx?ID=2732)
+  - 1x [Average Manacles](https://2e.aonprd.com/Equipment.aspx?ID=2733)
+  - 2x [Lesser Glue Bombs](https://2e.aonprd.com/Equipment.aspx?ID=3295)
 - 4. Wooden Chest
   - **Thievery** DC 20 to unlock the average lock on the chest
   - **Hazard** [Hidden Crossbow Trap](https://2e.aonprd.com/Hazards.aspx?ID=566)
-  - 1x +1 Crossbow
-  - 3x Machetes
-  - 31x Daggers
-  - 3x +1 Daggers
-  - 43x Darts
-  - 4x Saps
-  - 1x +1 Sap
-  - 140x Arrows
-  - 6x Beacon Shot
-  - 200x Bolts
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425)
+  - 3x [Machetes](https://2e.aonprd.com/Weapons.aspx?ID=516)
+  - 31x [Daggers](https://2e.aonprd.com/Weapons.aspx?ID=358)
+  - 3x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Daggers](https://2e.aonprd.com/Weapons.aspx?ID=358)
+  - 43x [Darts](https://2e.aonprd.com/Weapons.aspx?ID=426)
+  - 4x [Saps](https://2e.aonprd.com/Weapons.aspx?ID=392)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Sap](https://2e.aonprd.com/Weapons.aspx?ID=392)
+  - 140x [Arrows](https://2e.aonprd.com/Weapons.aspx?ID=443)
+  - 6x [Beacon Shot Arrows](https://2e.aonprd.com/Equipment.aspx?ID=2921)
+  - 200x [Bolts](https://2e.aonprd.com/Weapons.aspx?ID=441)
 - 5. Wooden Trunk
   - **Thievery** DC 30 to unlock the good lock on the trunk
-  - 1x Splint Mail
-  - 1x Breastplate
-  - 2x Chain Shirts
-  - 1x +1 Leather Armor
-  - 3x Studded Leather Armor
-  - 12x Bucklers
-  - 2x Minor Reinforcing Bucklers
+  - 1x [Splint Mail](https://2e.aonprd.com/Armor.aspx?ID=48)
+  - 1x [Breastplate](https://2e.aonprd.com/Armor.aspx?ID=47)
+  - 2x [Chain Shirts](https://2e.aonprd.com/Armor.aspx?ID=43)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2785) [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41)
+  - 3x [Studded Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=42)
+  - 12x [Bucklers](https://2e.aonprd.com/Shields.aspx?ID=17)
+  - 2x [Minor Reinforcing](https://2e.aonprd.com/Equipment.aspx?ID=2811) [Bucklers](https://2e.aonprd.com/Shields.aspx?ID=17)
   - Cash Box
     - 23 cp
     - 10 sp
@@ -212,15 +212,15 @@ Level | XP Progression          | Milestone
 - 6. Metal Trunk
   - **Thievery** DC 30 to unlock the good lock on the trunk
   - **Hazards** [Dart Launcher](https://2e.aonprd.com/Hazards.aspx?ID=399)
-  - 1x +1 Animal Bane Dagger
-  - 1x +1 Striking Shortsword
-  - 1x +1 Warhammer
-  - 1x Scroll of Heal (2nd Rank)
-  - 1x Scroll of Mystic Armor (1st Rank)
-  - 1x Scroll of Force Barrage (1st Rank)
-  - 1x Scroll of Blazing Bolt (2nd Rank)
-  - 1x Scroll of Summon Animal (2nd Rank)
-  - Wand of Mental Purification (1st Rank Spell)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Animal Bane](https://2e.aonprd.com/Equipment.aspx?ID=1041) [Dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=2829) [Shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Warhammer](https://2e.aonprd.com/Weapons.aspx?ID=403)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Heal (2nd Rank)](https://2e.aonprd.com/Spells.aspx?ID=1554)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Mystic Armor (1st Rank)](https://2e.aonprd.com/Spells.aspx?ID=1611)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Force Barrage (1st Rank)](https://2e.aonprd.com/Spells.aspx?ID=1536)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Blazing Bolt (2nd Rank)](https://2e.aonprd.com/Spells.aspx?ID=1450)
+  - 1x [Scroll](https://2e.aonprd.com/Equipment.aspx?ID=2962) of [Summon Animal (2nd Rank)](https://2e.aonprd.com/Spells.aspx?ID=1694)
+  - [Wand of Mental Purification (1st Rank Spell)](https://2e.aonprd.com/Equipment.aspx?ID=2282)
 
 ## A10. Lower Hold and Crew Berths
 
@@ -232,37 +232,37 @@ Level | XP Progression          | Milestone
   - Locker #1
     - 9 gp
     - 2x hematites worth 1 gp each
-    - 1x Bullseye Lantern
+    - 1x [Bullseye Lantern](https://2e.aonprd.com/Equipment.aspx?ID=2730)
     - 1x Fancy Peacock Feather
   - Locker #2
     - 12 gp
-    - 1x Bottle of Brandy
+    - 1x [Bottle of Brandy](https://2e.aonprd.com/Equipment.aspx?ID=622)
   - Locker #3
     - 5 gp
-    - 1x Lesser Antidote
+    - 1x [Lesser Antidote](https://2e.aonprd.com/Equipment.aspx?ID=3296)
     - 1x Silver ring worth 5 sp
   - Locker #4
     - 11 gp
-    - 1x Bedroll
+    - 1x [Bedroll](https://2e.aonprd.com/Equipment.aspx?ID=2706)
   - Locker #5
     - 11 gp
     - 1x Gold earring worth 2 gp
-    - 1x Sterling Carpenter's Toolkit
+    - 1x [Sterling Carpenter's Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2703)
   - Locker #6
     - 15 gp
     - 1x Silver ring worth 5 sp
-    - 1x Bottle of wine
+    - 1x [Bottle of Wine](https://2e.aonprd.com/Equipment.aspx?ID=622)
   - Locker #7
     - 5 gp
-    - 1x Sterling Blacksmith's Toolkit
+    - 1x [Sterling Blacksmith's Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2703)
     - 2x Agate worth 1 gp
   - Locker #8
     - 18 gp
     - 1x Battered tankard
   - Locker #9
     - 3 gp
-    - 1x Thieves' Toolkit
-    - 1x Bottle of wine
+    - 1x [Thieves' Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2758)
+    - 1x [Bottle of Wine](https://2e.aonprd.com/Equipment.aspx?ID=622)
   - Locker #10
     - 7 gp
     - 1x Bicorne hat
@@ -274,15 +274,15 @@ Level | XP Progression          | Milestone
   - Locker #12
     - 17 gp
     - 1x Lucky rabbit's foot
-    - 1x Lesser alchemist's fire
+    - 1x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
     - 1x Gold earring worth 2 gp
   - Locker #13
     - 4 gp
-    - 1x Bullseye lantern
-    - 1x Flask of giant centipede venom
+    - 1x [Bullseye Lantern](https://2e.aonprd.com/Equipment.aspx?ID=2730)
+    - 1x Flask of [Giant Centipede Venom](https://2e.aonprd.com/Equipment.aspx?ID=3334)
   - Locker #14
     - 14 gp
-    - 1x Lesser Glue Bomb
+    - 1x [Lesser Glue Bomb](https://2e.aonprd.com/Equipment.aspx?ID=3295)
     - 2x hematites worth 1 gp each
   - Locker #15
     - 6 gp
@@ -291,12 +291,12 @@ Level | XP Progression          | Milestone
     - 28 gp
   - Locker #17
     - 20 gp
-    - 1x Lesser Alchemist's Fire
+    - 1x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287)
   - Locker #18
     - 12 gp
-    - 1x Bullseye Lantern
-    - 1x Lesser Acid Flash
-    - 1x Lesser Alchemist's Fire
+    - 1x [Bullseye Lantern](https://2e.aonprd.com/Equipment.aspx?ID=2730)
+    - 1x [Lesser Acid Flash](https://2e.aonprd.com/Equipment.aspx?ID=3286)
+    - 1x [Lesser Alchemist's Fire](https://2e.aonprd.com/Equipment.aspx?ID=3287))
 
 ## A11. Bilges
 
@@ -304,16 +304,16 @@ Level | XP Progression          | Milestone
 - [Bilge Spider](Creatures/README.md#bilge-spider)
 
 **Treasure:**
-- 6x Good Manacles
-- 1x Leather Armor
-- 3x Maces
+- 6x [Good Manacles](https://2e.aonprd.com/Equipment.aspx?ID=2733)
+- 1x [Leather Armor](https://2e.aonprd.com/Armor.aspx?ID=41)
+- 3x [Maces](https://2e.aonprd.com/Weapons.aspx?ID=362)
 - 12 sp
 - **Hidden** DC 16 Perception to locate each
-  - 1x Buckler
-  - 1x +1 Hatchet
-  - 1x Vial of Holy Water
-  - 1x Lesser Glue Bomb
-  - 2x Matchsticks
+  - 1x [Buckler](https://2e.aonprd.com/Shields.aspx?ID=17)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Hatchet](https://2e.aonprd.com/Weapons.aspx?ID=382)
+  - 1x Vial of [Holy Water](https://2e.aonprd.com/Equipment.aspx?ID=3001)
+  - 1x [Lesser Glue Bomb](https://2e.aonprd.com/Equipment.aspx?ID=3295)
+  - 2x [Matchsticks](https://2e.aonprd.com/Equipment.aspx?ID=3356)
   - 2 gp
  
 ## A Pirate's Day
@@ -441,7 +441,7 @@ Level | XP Progression          | Milestone
 - 2x [Weak Reefclaws](https://2e.aonprd.com/Monsters.aspx?ID=3166&Weak=true&NoRedirect=1)
 
 **Treasure**
-- 1x Moderate Healing Potion
+- 1x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
 
 ## Day 14: Boarding School
 **Skills**
@@ -487,12 +487,12 @@ Level | XP Progression          | Milestone
 **Treasure**
 - 15 gp main plunder
 - If PCs took the aft deck and sterncastle within 6 rounds
-  - 3x Moderate Healing Potions
-  - 1x Invisibility Potion
+  - 3x [Moderate Healing Potions](https://2e.aonprd.com/Equipment.aspx?ID=2943)
+  - 1x [Invisibility Potion](https://2e.aonprd.com/Equipment.aspx?ID=2944)
   - 10 gp
 - If a PC warned Harrigan of the surprise attack
-  - 1x Bands of Force
-  - 1x +1 Striking Shortsword
+  - 1x [Bands of Force](https://2e.aonprd.com/Equipment.aspx?ID=3058)
+  - 1x [+1](https://2e.aonprd.com/Equipment.aspx?ID=2830) [Striking](https://2e.aonprd.com/Equipment.aspx?ID=2829) [Shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
 - If the PCs did not warn the captain
   - only 7 gp main plunder
 - For each sailor killed
