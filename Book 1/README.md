@@ -24,6 +24,9 @@ Level | XP Progression          | Milestone
 
 ## Part 1: The Wormwood
 
+### Introduction
+
+
 ## Welcome to the Sweet Trade
 
 **Skills:**
