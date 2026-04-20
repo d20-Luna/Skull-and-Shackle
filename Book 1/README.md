@@ -32,8 +32,8 @@ Level | XP Progression          | Milestone
 - **Perception** DC 14 to remember seeing Master Scourge last night.
 
 **Creatures:**
-- Master Scourge (uses statistics for a [Bosun](https://2e.aonprd.com/NPCs.aspx?ID=3600) replacing the naval pike with a [scourge](https://2e.aonprd.com/Weapons.aspx?ID=531).)
-- [Wormwood Pirates](Creatures/README.md#wormwood-pirates).
+- [Master Scourge^](Creatures/README.md#master-scourge)
+- [Wormwood Pirates^](Creatures/README.md#wormwood-pirates).
 
 ## Mr. Plugg's Tests
 
@@ -301,7 +301,7 @@ Level | XP Progression          | Milestone
 ## A11. Bilges
 
 **Creatures:**
-- [Bilge Spider](Creatures/README.md#bilge-spider)
+- [Bilge Spider^](Creatures/README.md#bilge-spider)
 
 **Treasure:**
 - 6x [Good Manacles](https://2e.aonprd.com/Equipment.aspx?ID=2733)
@@ -409,7 +409,7 @@ Level | XP Progression          | Milestone
 
 ## Day 2: Laying Down the Law
 **Creatures**
-- 4x [Wormwood Pirates](Creatures/README.md#wormwood-pirates)
+- 4x [Wormwood Pirates^](Creatures/README.md#wormwood-pirates)
 
 ## Day 4: Something in the Bilges
 **Skills**
@@ -420,7 +420,7 @@ Level | XP Progression          | Milestone
 
 ## Day 5: The Owlbear
 **Creatures**
-- [Owlbear Hartshorn](Creatures/README.md#owlbear-hartshorn)
+- [Owlbear Hartshorn^](Creatures/README.md#owlbear-hartshorn)
 
 **Treasure**
 - 10 gp if the chosen PC can win against Owlbear
@@ -449,7 +449,7 @@ Level | XP Progression          | Milestone
 
 ## Day 19: Risky Games in the Bilges
 **Creatures**
-- 2x [Wormwood Pirates](Creatures/README.md#wormwood-pirate)
+- 2x [Wormwood Pirates^](Creatures/README.md#wormwood-pirate)
 
 ## Day 21: Piracy!
 
@@ -465,7 +465,7 @@ Level | XP Progression          | Milestone
 
 ## Round 1: Boarding Action
 **Creatures**
-- 6x [Rahadoumi Sailors](Creatures/README.md#rahadoumi-sailor)
+- 6x [Rahadoumi Sailors^](Creatures/README.md#rahadoumi-sailor)
 
 ## Round 3: The Captain's Back
 **Skills**
@@ -473,15 +473,15 @@ Level | XP Progression          | Milestone
 
 ## Round 6: Fleeing Sailors
 **Creatures**
-- 3x [Rahadoumi Sailors](Creatures/README.md#rahadoumi-sailor)
+- 3x [Rahadoumi Sailors^](Creatures/README.md#rahadoumi-sailor)
 
 **Skills**
 - **Sailing Lore or Athletics** DC 12 to release the boat
 
 ## Round 11: Abandoning the Ship
 **Creatures**
-- 1x [Rahadoumi Officer](Creatures/README.md#rahadoumi-officer)
-- 2x [Rahadoumi Sailors](Creatures/README.md#rahadoumi-sailor)
+- 1x [Rahadoumi Officer^](Creatures/README.md#rahadoumi-officer)
+- 2x [Rahadoumi Sailors^](Creatures/README.md#rahadoumi-sailor)
 
 ## Aftermath
 **Treasure**
