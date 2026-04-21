@@ -334,15 +334,6 @@ As you start to move, you hear commotion from above...
 **Creatures**
 - [Mr. Plugg](Creatures/README.md#mr-plugg)
 - [Master Scourge](Creatures/README.md#master-scourge)
-- [Ambrose "Fishguts" Kroop](Creatures/README.md#fishguts)
-- [Cut-Throat Grok](Creatures/README.md#cut-throat-grok)
-- [Captain Barnabas Harrigan](Creatures/README.md#captain-harrigan)
-- [Peppery Longfarthing](Creatures/README.md#peppery-longfarthing)
-- [Riaris Krine](Creatures/README.md#riaris-krine)
-- [Habbly Quarne, the “Stitchman”](Creatures/README.md#the-stitchman)
-- [Kipper](Creatures/README.md#kipper)
-- [Patch Patchsalt](Creatures/README.md#patch-patchsalt)
-- [“Caulky” Tarroon](Creatures/README.md#caulky)
 - [Owlbear Hartshorn](Creatures/README.md#owlbear-hartshorn)
 
 ## A Pirate's Day
