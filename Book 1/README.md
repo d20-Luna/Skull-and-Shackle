@@ -25,7 +25,11 @@ Level | XP Progression          | Milestone
 ## Part 1: The Wormwood
 
 ### Introduction
+Pain cuts through the darkness and you're all pulled from your sleep. It seems like moments ago the sounds and smells of the Formidably Maid filled the air. Rauctious laughter, rich stewed meat, the heady perfume of the doxies, the heat of so many bodies and the scent of rum, blood and vomit overwhelmed your senses. Now your head is throbbing in agony, the taste of cheap wine fills your mouth and there's a perpetual sense of motion, like you hadn't yet thrown off the effects of your indulgences the night before.
 
+The rhythmic creak of boards, the sloshing of water, the sounds of movement and muffled voices from somewhere above start to break through your muddled senses and the darkness is overwhelming.
+
+As you start to move, you hear commotion from above...
 
 ## Welcome to the Sweet Trade
 
