@@ -326,9 +326,9 @@ As you start to move, you hear commotion from above...
 ## The Wormwood's Crew
 **Creatures**
 - [Sandara Quinn](Creatures/README.md#sandara-quinn)
-- [Rosie Cusswell](Creatures/README.md#rosie-cusswell)
-- [Crimson "Cog" Cogward](Creatures/README.md#cog)
-- [Conchobhar Turlach Shortstone](Creatures/README.md#conchobhar-shortstone)
+- [Rosie Cusswell](Creatures/README.md#rosie-cusswell) - Temporarily treat as Elite [Skebs] with a +1 hatchet
+- [Crimson "Cog" Cogward](Creatures/README.md#cog) - Temporarily treat as an Elite [Urchin]
+- [Conchobhar Turlach Shortstone](Creatures/README.md#conchobhar-shortstone) - Temporarily treat as a [Gnome Bard]
 
 ## The Wormwood's Officers
 **Creatures**
