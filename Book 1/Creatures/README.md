@@ -22,6 +22,8 @@ Master Scourge is just an Elite [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599
 * [PF2 Tools JSON](JSONs/OwlbearHartshorn.json)
 * [PDF](PDFs/OwlbearHartshorn.pdf)
 
+Owlbear is built as a [Pirate](https://2e.aonprd.com/NPCs.aspx?ID=3599) with swapped out gear and an added weakness.
+
 ## New Creatures
 
 ### Wormwood Pirate
