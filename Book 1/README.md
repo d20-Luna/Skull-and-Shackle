@@ -248,7 +248,7 @@ As you start to move, you hear commotion from above...
     - 5 gp
     - 1x [Lesser Antidote](https://2e.aonprd.com/Equipment.aspx?ID=3296)
     - 1x Silver ring worth 5 sp
-  - Locker #4
+  - Locker #4 ✔️
     - 11 gp
     - 1x [Bedroll](https://2e.aonprd.com/Equipment.aspx?ID=2706)
   - Locker #5
@@ -326,9 +326,9 @@ As you start to move, you hear commotion from above...
 ## The Wormwood's Crew
 **Creatures**
 - [Sandara Quinn](Creatures/README.md#sandara-quinn)
-- [Rosie Cusswell](Creatures/README.md#rosie-cusswell) - Temporarily treat as Elite [Skebs] with a +1 hatchet
-- [Crimson "Cog" Cogward](Creatures/README.md#cog) - Temporarily treat as an Elite [Urchin]
-- [Conchobhar Turlach Shortstone](Creatures/README.md#conchobhar-shortstone) - Temporarily treat as a [Gnome Bard]
+- [Rosie Cusswell](Creatures/README.md#rosie-cusswell)
+- [Crimson "Cog" Cogward](Creatures/README.md#cog)
+- Conchobhar Turlach Shortstone - treat as a [Gnome Bard](https://2e.aonprd.com/NPCs.aspx?ID=3020) with a [Sword Cane](https://2e.aonprd.com/Weapons.aspx?ID=400)
 
 ## The Wormwood's Officers
 **Creatures**
