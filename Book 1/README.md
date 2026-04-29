@@ -260,8 +260,8 @@ As you start to move, you hear commotion from above...
     - 1x Silver ring worth 5 sp
     - 1x [Bottle of Wine](https://2e.aonprd.com/Equipment.aspx?ID=622)
   - Locker #7
-    - 5 gp
-    - 1x [Sterling Blacksmith's Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2703)
+    - 5 gp [minus 2 gp]
+    - 1x [Sterling Blacksmith's Toolkit](https://2e.aonprd.com/Equipment.aspx?ID=2703) [Minus tongs]
     - 2x Agate worth 1 gp
   - Locker #8
     - 18 gp
