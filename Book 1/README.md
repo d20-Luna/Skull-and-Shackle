@@ -445,13 +445,24 @@ As you start to move, you hear commotion from above...
 **Treasure**
 - 10 gp if the chosen PC can win against Owlbear
 
-## Day 8: The Storm
+## Day 6: Gremlins on the Waves
+**Creatures**
+- 4x [Hanivers](https://2e.aonprd.com/Monsters.aspx?ID=4423&Redirected=1)
+
+## Day 7: The Storm
 **Skills**
 - **Fortitude** DC 15 to avoid being fatigued or exhausted after their second shift
 - **Athletics** DC 30 to swim in stormy waters
 - **Fortitude** DC 17 to avoid being fatigued or exhausted after next day's tasks
 
-## Day 11: Trouble in the Sun
+**Creatures**
+- 2x [Bristled Reef Sharks](https://2e.aonprd.com/Monsters.aspx?ID=3948)
+
+## Day 8: Scouts from Below
+**Creatures**
+- 2x [Sedacthy Scouts](https://2e.aonprd.com/Monsters.aspx?ID=3178)
+
+## Day 9: Trouble in the Sun
 **Skills**
 - **Athletics** DC 12 to swim in calm ocean waters
 - **Perception or Survival** DC 12 to spot a crab
@@ -463,15 +474,23 @@ As you start to move, you hear commotion from above...
 **Treasure**
 - 1x [Moderate Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=2943)
 
-## Day 14: Boarding School
+## Day 10: Skum of the Seas
+**Creatures**
+- 1x [Skum](https://2e.aonprd.com/Monsters.aspx?ID=3)
+
+## Day 11: Boarding School
 **Skills**
 - **Reflex** DC 12 or lose their grip and fall into the water
 
-## Day 19: Risky Games in the Bilges
+## Day 12: Wisps on the Waves
+**Creatures**
+- 4x [Water Wisps](https://2e.aonprd.com/Monsters.aspx?ID=4397&NoRedirect=1)
+
+## Day 13: Risky Games in the Bilges
 **Creatures**
 - 2x [Wormwood Pirates^](Creatures/README.md#wormwood-pirate)
 
-## Day 21: Piracy!
+## Day 14: Piracy!
 
 ## Part 2: The Man's Promise
 
